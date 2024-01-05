@@ -1,0 +1,18 @@
+Package: TestingStructuresofCovarianceandCorrelationMatrices
+Title: Testing Covariance and Correlation Matrices for Structures
+Version: 0.0.0.9000
+Authors@R: 
+    person("Paavo", "Sattler", , "paavo.sattler@tu-dortmund.de", role = c("aut", "cre"),
+           comment = (ORCID = "0000-0001-8731-0893"))
+Description: Tests regarding the structure of a covariance or a correlation matrices. 
+ Hereby an investigated structure is chosen, while most of the common used are possible, like auto-regressive, compound-symmetry or diagonal. Then Monte-Carlo, Bootstrap and Taylor based Monte-Carlo-techniques are used, and the respective method must be chosen, 
+ and the functions provide p-values and mostly also estimators of calculated covariance matrices of test statistics.
+Imports: matrixcalc
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
