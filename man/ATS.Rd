@@ -6,11 +6,7 @@
 \title{Anova-Type-statistic}
 \usage{
 ATS(N, vVarData, C, HatCov, Xi = 0)
-
-ATS(N, vVarData, C, HatCov, Xi = 0)
 }
 \description{
-Anova-Type-statistic
-
 Anova-Type-statistic
 }
