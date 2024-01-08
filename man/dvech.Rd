@@ -6,8 +6,6 @@
 \title{Diagonal vectorisation including the diagonal}
 \usage{
 dvech(X, a, d, p)
-
-dvech(X, a, d, p)
 }
 \arguments{
 \item{X}{quadratic matrix which should be vectorized}
@@ -20,9 +18,6 @@ matrix}
 \item{p}{dimension of the vectorised matrix}
 }
 \description{
-Diagonal vectorisation of the upper triangular part of a matrix
-containing the diagonal elements.
-
 Diagonal vectorisation of the upper triangular part of a matrix
 containing the diagonal elements.
 }
