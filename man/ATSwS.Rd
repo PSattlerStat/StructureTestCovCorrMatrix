@@ -6,8 +6,6 @@
 \title{Weighted sum to calculate the asymptotic distribution of the ATS}
 \usage{
 ATSwS(A, repetitions)
-
-ATSwS(A, repetitions)
 }
 \arguments{
 \item{A}{the matrix which is used to calculate the ATS}
