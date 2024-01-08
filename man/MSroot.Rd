@@ -6,11 +6,7 @@
 \title{Square root of a matrix}
 \usage{
 MSroot(X)
-
-MSroot(X)
 }
 \description{
-Square root of a matrix
-
 Square root of a matrix
 }
