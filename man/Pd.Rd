@@ -7,7 +7,6 @@
 \usage{
 Pd(d)
 
-Pd(d)
 }
 \arguments{
 \item{d}{a scalar, characterizing the matrix and set its dimension}
@@ -18,7 +17,5 @@ the centering matrix
 the centering matrix
 }
 \description{
-matrix Pd for testing equality of the d components of a vector
-
 matrix Pd for testing equality of the d components of a vector
 }
