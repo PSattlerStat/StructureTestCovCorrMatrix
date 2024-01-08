@@ -6,8 +6,6 @@
 \title{Bootstrap for one group}
 \usage{
 Bootstrap(N.sim, n1, C, MSrootHatCov)
-
-Bootstrap(N.sim, n1, C, MSrootHatCov)
 }
 \arguments{
 \item{N.sim}{control variable for using sapply}
