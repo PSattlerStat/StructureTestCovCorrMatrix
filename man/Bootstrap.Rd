@@ -21,14 +21,8 @@ the bootstrap sample}
 }
 \value{
 a scalar, the value of the ATS
-
-a scalar, the value of the ATS
 }
 \description{
-This function generates n1 normal distributed random vectors
-with covariance matrix HatCov, which matrix root MSrootHatCov is given. For
-the generated bootstrap sample the value of the ATS is calculated
-
 This function generates n1 normal distributed random vectors
 with covariance matrix HatCov, which matrix root MSrootHatCov is given. For
 the generated bootstrap sample the value of the ATS is calculated
