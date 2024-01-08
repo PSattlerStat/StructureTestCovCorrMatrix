@@ -17,14 +17,8 @@ ATSwS(A, repetitions)
 \value{
 a vector containing the values of the weighted sum for a number of
 repetitions
-
-a vector containing the values of the weighted sum for a number of
-repetitions
 }
 \description{
-Generating a number of realisations of weighted sums of chi-square
-distributed random variables which is the asymptotic distribution of the ATS
-
 Generating a number of realisations of weighted sums of chi-square
 distributed random variables which is the asymptotic distribution of the ATS
 }
