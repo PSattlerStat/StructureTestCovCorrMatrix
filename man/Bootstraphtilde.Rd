@@ -5,8 +5,6 @@
 \title{Bootstrap using the transformation htilde for one group}
 \usage{
 Bootstraphtilde(N.sim, n1, a, d, p, C, MSUpsidv, vCorData)
-
-Bootstraphtilde(N.sim, n1, a, d, p, C, MSUpsidv, vCorData)
 }
 \arguments{
 \item{N.sim}{control variable for using sapply}
