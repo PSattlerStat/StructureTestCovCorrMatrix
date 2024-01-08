@@ -8,14 +8,8 @@ A function to generate nv normal distributed random vectors with expectation
 zero and covariance matrix Sigma, while the matrix root of Sigma is given.}
 \usage{
 gData(WSigma, nv)
-
-gData(WSigma, nv)
 }
 \description{
-Function to generate normal distributed bootstrap observations
-A function to generate nv normal distributed random vectors with expectation
-zero and covariance matrix Sigma, while the matrix root of Sigma is given.
-
 Function to generate normal distributed bootstrap observations
 A function to generate nv normal distributed random vectors with expectation
 zero and covariance matrix Sigma, while the matrix root of Sigma is given.
