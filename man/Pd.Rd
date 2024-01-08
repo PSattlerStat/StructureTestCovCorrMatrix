@@ -6,7 +6,6 @@
 \title{Centering matrix}
 \usage{
 Pd(d)
-
 }
 \arguments{
 \item{d}{a scalar, characterizing the matrix and set its dimension}
