@@ -6,11 +6,7 @@
 \title{Auxiliary function to calculate the covariance of the vectorized correlation matrix}
 \usage{
 Qvech(X, n)
-
-Qvech(X, n)
 }
 \description{
-Auxiliary function to calculate the covariance of the vectorized correlation matrix
-
 Auxiliary function to calculate the covariance of the vectorized correlation matrix
 }
