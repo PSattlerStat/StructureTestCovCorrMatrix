@@ -29,15 +29,8 @@ the bootstrap sample}
 }
 \value{
 a scalar, the value of the ATS
-
-a scalar, the value of the ATS
 }
 \description{
-This function generates n1 normal distributed random vectors
-with covariance matrix Upsidv, which matrix root is given and expectation
-vector vCorData. For the generated bootstrap sample the value of the
-ATS based on transformation h is calculated.
-
 This function generates n1 normal distributed random vectors
 with covariance matrix Upsidv, which matrix root is given and expectation
 vector vCorData. For the generated bootstrap sample the value of the
