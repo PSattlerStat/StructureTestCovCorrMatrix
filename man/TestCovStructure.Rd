@@ -2,7 +2,7 @@
 % Please edit documentation in R/TestingStructuresofCovarianceMatrices.R
 \name{TestCovStructure}
 \alias{TestCovStructure}
-\title{Test for structure of data's covariance matrix}
+\title{Test for the covariance matrix of data regarding their structure}
 \usage{
 TestCovStructure(X, structure, method = "BT", repetitions = 1000, seed = 0)
 }
