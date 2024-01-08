@@ -6,11 +6,7 @@
 \title{Function to calculate the variance of transposed observations}
 \usage{
 tvar(X)
-
-tvar(X)
 }
 \description{
-Function to calculate the variance of transposed observations
-
 Function to calculate the variance of transposed observations
 }
