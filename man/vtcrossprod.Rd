@@ -6,11 +6,7 @@
 \title{Function to calculate vech(X t(X))}
 \usage{
 vtcrossprod(X)
-
-vtcrossprod(X)
 }
 \description{
-Function to calculate vech(X t(X))
-
 Function to calculate vech(X t(X))
 }
