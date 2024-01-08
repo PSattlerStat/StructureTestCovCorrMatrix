@@ -6,11 +6,7 @@
 \title{Quadratic form for vectors and matrices}
 \usage{
 QF(A, B)
-
-QF(A, B)
 }
 \description{
-Quadratic form for vectors and matrices
-
 Quadratic form for vectors and matrices
 }
