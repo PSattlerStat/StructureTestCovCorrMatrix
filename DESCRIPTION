@@ -7,12 +7,13 @@ Authors@R:
 Description: Tests regarding the structure of a covariance or a correlation matrices. 
  Hereby an investigated structure is chosen, while most of the common used are possible, like auto-regressive, compound-symmetry or diagonal. Then Monte-Carlo, Bootstrap and Taylor based Monte-Carlo-techniques are used, and the respective method must be chosen, 
  and the functions provide p-values and mostly also estimators of calculated covariance matrices of test statistics.
-Imports: matrixcalc
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
-Encoding: UTF-8
-Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.2.3
+License: GPL (>=3)
+Imports: 
+    MANOVA.RM,
+    matrixcalc
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
